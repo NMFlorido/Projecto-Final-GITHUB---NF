@@ -1,0 +1,35 @@
+bodyhomepage ul {
+	list-style-type: none;
+	font-size: 25px;
+	text-align: left;
+	text-indent: 20px;
+}
+
+
+#bodyContactopage ul li {
+	margin-left: 50px;
+}
+
+
+#bodyContactopage ul li ol {
+	font-size: 25px;
+}
+
+#bodyContactopage ul li ol li {
+	font-size: 25px;
+	margin-left: 75px;
+}
+
+#locationmap {
+	position: relative;
+	width: 100px;
+	height: auto;
+	bottom: 20px;
+	left: 500px;
+}
+.contact {
+    width: 100%;
+    height: auto;
+    display: block;
+    justify-content: left;
+}

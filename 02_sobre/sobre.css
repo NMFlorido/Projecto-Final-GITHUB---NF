@@ -1,0 +1,25 @@
+.P1 {
+	font-family: Cursive;
+	font-size: 30px;
+	padding: 5%;
+	text-indent: 30px;
+	text-align: justify;
+}
+
+.spn1 {
+	font-weight: bold;
+	color: orange;
+	text-decoration: underline;	
+}
+
+.signature{
+	width: 300px;
+	height: 20px;
+	position: relative;
+	bottom: 0px;
+    padding-bottom: 5%;
+	left: 0px;
+	font-family: Cursive;
+	font-size: 30px;
+	text-indent: 0px;
+}

@@ -1,0 +1,88 @@
+body {
+
+    background-color: darkblue;
+    height:auto;
+    width: 100%;
+    align-items: center;
+
+}
+
+.header {
+    background-color: none;
+	width: 80%;
+	height: 250px;
+	text-align: center;
+	margin-left: 10%;
+	position: relative;
+}
+
+.nav01 {
+
+    background-color: orange;
+    width: 80%;
+    margin-left: 10%;
+    position: relative;
+
+}
+
+.navbar01 {
+
+    width: 80%;
+}
+
+#navbar01 a {
+	display: inline-block;
+	padding-top: 12px;
+}
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: purple;
+
+}
+
+a:hover {
+	color: green;
+}
+
+a:active {
+	color: red ;
+}
+
+.bodyhomepage {
+	background-color: white;
+	width: 82%;
+	height: auto;
+	border: 15px solid orange;
+	margin-left: 9%;
+}
+
+
+footer{
+    background-color: black;
+    width:100%;
+    height:auto;
+}
+
+.companies_links{
+    padding: 2%;
+    display: inline-block;
+}
+
+.row1 {
+    align-items: center;
+
+}
+
+.companie a {
+    justify-content: center;
+    
+}
+
+.companie label{
+    padding-top: 15%;
+    justify-items: center;
+}
